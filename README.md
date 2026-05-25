@@ -28,8 +28,6 @@ The widget provides a clean and efficient user experience for selecting objects 
 ### 4. On Change Event
 - Trigger actions whenever the selected value changes.
 
-### 5. Native Mobile Optimized
-- Designed specifically for Mendix Native Mobile applications.
 
 ## Setup
 
